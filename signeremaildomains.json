@@ -1,0 +1,18 @@
+{
+          "domainsigner": {"return":{
+              "domains": [
+            {"name": "Demo SHS",
+            "signeridtype": 
+                {
+                    "name": "email",
+                    "fhirID": "80930308-d9dc-4937-ae63-8d8f4fd886fa",
+					"createTimestamp": "2023-01-25T22:31:38.050+01:00"
+                }          
+        },{"name": "domain003",
+            "signeridtype": 
+                {
+                    "name": "email",
+                    "fhirID": "73262714-4927-4292-bfab-e15cb4cf937d",
+					"createTimestamp": "2023-01-30T07:57:47.861+01:00"
+                }          
+        }]}}}

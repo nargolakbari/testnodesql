@@ -1,0 +1,27 @@
+{
+    "domainsigner": {"return":{      
+      "signeridtypes": [
+          {
+              "name": "studyid",
+              "fhirID": "1e8e5896-f829-4233-b2cc-47433d2a2297",
+              "createTimestamp": "2023-03-13T00:16:20.889+01:00"
+          } ,
+          {
+            "name": "patientid",
+            "fhirID": "169568fc-8116-4e1a-b8bd-d765271375d4",
+            "createTimestamp": "2023-03-13T00:16:20.889+01:00"
+        } ,
+        {
+            "name": "institutionname",
+            "fhirID": "1a8f8e11-5689-4724-96b8-fc2749c0941c",
+            "createTimestamp": "2023-03-13T00:16:20.889+01:00"
+        } ,
+        {
+            "name": "email",
+            "fhirID": "248f9f8c-434e-4447-9413-0ee452e06cc4",
+            "createTimestamp": "2023-03-13T00:16:20.889+01:00"
+        } ]
+
+
+         
+  }}}  
